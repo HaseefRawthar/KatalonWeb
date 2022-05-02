@@ -6,9 +6,9 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>13188406-4ff9-4490-bb90-02cec8f0d203</dataFileGUID>
-   <dataSourceUrl>../../Documents/KatalonDemoData.xlsx</dataSourceUrl>
+   <dataSourceUrl>C:\Users\haseef\Katalon Studio\WEB\Data Files\New Folder\KatalonDemoData.xlsx</dataSourceUrl>
    <driver>ExcelFile</driver>
-   <isInternalPath>true</isInternalPath>
+   <isInternalPath>false</isInternalPath>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
    <sheetName>Appoinment</sheetName>
