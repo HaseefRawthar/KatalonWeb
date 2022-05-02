@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>MakeAppoinment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e27dc60a-9366-424a-8f07-a50b8f34f970</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>acc7c472-79ed-4daf-84a8-750873d5c61b</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/MakeAppoinmentData</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>acc7c472-79ed-4daf-84a8-750873d5c61b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Date</value>
+      <variableId>b532170e-18f6-4b0d-989c-bc3ad5821c6a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>acc7c472-79ed-4daf-84a8-750873d5c61b</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Comment</value>
+      <variableId>8efc0fa3-4991-4e82-937d-8ee0bb26593b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b532170e-18f6-4b0d-989c-bc3ad5821c6a</id>
+      <masked>false</masked>
+      <name>date</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8efc0fa3-4991-4e82-937d-8ee0bb26593b</id>
+      <masked>false</masked>
+      <name>comment</name>
+   </variable>
+</TestCaseEntity>
